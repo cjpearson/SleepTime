@@ -1,0 +1,9 @@
+Package: com.connorjpearson.sleeptime
+Name: SleepTime
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A simple tweak that displays how many hours of sleep you'll have when setting the alarm in Sleep Cycle.
+Maintainer: Connor Pearson
+Author: Connor Pearson
+Section: Tweaks
